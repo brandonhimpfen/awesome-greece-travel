@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Greece, covering official tourism portals, ferry networks, regional island groups, ancient historical sites, and remote work options.
 
+Greece is a classic Mediterranean destination featuring ancient classical ruins, picturesque island archipelagos, crystal-clear coastal waters, and rugged mountainous terrain. This list is intended for island-hopping travelers, classical history enthusiasts, coastal explorers, and cultural tourists.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
